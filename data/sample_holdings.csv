@@ -1,0 +1,6 @@
+symbol,asset_type,quantity,average_cost
+AAPL,stock,100,180
+MSFT,stock,30,400
+NVDA,stock,150,110
+BND,etf,200,72
+CASH,cash,5000,1

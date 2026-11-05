@@ -1,0 +1,5 @@
+# Optional dependencies for the FinBERT sentiment classifier.
+# Install only when enabling USE_FINBERT=1; model weights are downloaded separately.
+-r requirements.txt
+transformers
+torch
